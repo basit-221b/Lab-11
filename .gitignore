@@ -1,5 +1,10 @@
 __pycache__/
 *.pyc 
+ feature/gb-output
+.venv/ 
+venv/
+=======
 .venv/
  venv/
 
+ main
